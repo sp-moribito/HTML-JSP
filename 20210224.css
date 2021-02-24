@@ -1,0 +1,14 @@
+/* id > class > type */
+
+/* class > type */
+.color{
+  color:red;
+}
+
+/* type */
+h3{
+  color:green;
+}
+
+/* css에서의 주석*/
+/* #은 파이썬, <--! -->은 html 주석*/
